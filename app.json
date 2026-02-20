@@ -134,7 +134,7 @@
     },
     "STATUS_LIKE_EMOJIS": {
       "description": "Comma-separated emojis for liking status",
-      "value": "❤️,💜,💙,🤍,💛",
+      "value": "❤️,💯,💦,💛",
       "required": false
     },
     "CHATBOT": {
